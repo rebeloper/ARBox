@@ -1,0 +1,11 @@
+framework module ARBox {
+  umbrella header "ARBox.h"
+
+  export *
+  module * { export * }
+}
+
+module ARBox.Swift {
+    header "ARBox-Swift.h"
+    requires objc
+}
