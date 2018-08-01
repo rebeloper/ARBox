@@ -3,7 +3,7 @@
 We use Semantic Versioning 2.0.0 - http://semver.org
 
 <strong>0.0.8 - (01.08.2018) </strong>
-<ul><li>Set "Set `i386` and `x86_64` listed in the Valid Architectures in Build Settings</li></ul>
+<ul><li>Set `i386` and `x86_64` listed in the Valid Architectures in Build Settings</li></ul>
 
 <strong>0.0.7 - (01.08.2018) </strong>
 <ul><li>Set "Build Active Architectures Only" to NO again after Xcode's 'Upgrade scheme to recommend settings' feature set the Debug back to YES</li></ul>
